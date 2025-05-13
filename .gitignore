@@ -14,3 +14,6 @@ npm-debug.*
 *.bundle
 *.bundle.js
 web-build/
+.idea
+app.bundle*
+
